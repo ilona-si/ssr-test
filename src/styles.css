@@ -1,0 +1,54 @@
+
+body {
+  background: tan;
+  font-family: BasierSquare;
+}
+
+div {
+  font-family: BasierSquare;
+  font-weight: 500;
+}
+
+div {
+  font-weight: 600;
+}
+
+@font-face {
+
+  font-family: 'BasierSquare';
+
+  font-style: normal;
+
+  font-weight: normal;
+
+  src: url('https://www.pilotaws.efinancialcareers.com/stylings/webfonts/basiersquare-regular-webfont.woff2');
+
+  font-display: swap;
+
+}
+
+@font-face {
+
+  font-family: 'BasierSquare';
+
+  font-style: normal;
+
+  font-weight: 500;
+
+  src: url('https://www.pilotaws.efinancialcareers.com/stylings/webfonts/basiersquare-medium-webfont.woff2');
+  font-display: swap;
+
+}
+
+@font-face {
+
+  font-family: 'BasierSquare';
+
+  font-style: normal;
+
+  font-weight: 600;
+
+  src: url('https://www.pilotaws.efinancialcareers.com/stylings/webfonts/basiersquare-semibold-webfont.woff2');
+  font-display: swap;
+
+}
